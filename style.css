@@ -1,7 +1,25 @@
+*{
+    justify-content: center;
+    text-align: center;
+}
+
 .container{
     display: flex;
+    align-items: center;
 }
 .banner{
-    padding-left: 200px;
+    justify-content: center;
+    text-align: center;
 
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.banner1{
+    
 }
