@@ -1,17 +1,24 @@
 *{
     margin: 0;
     padding: 0;
+    background-image: image-set(background-image: scr"..\img\ai-generated-1280×719.jpg";);
 
 }
 
-#cabecalho a{
+#cabecalho{
+    
+}
+
+a{
     display: flexbox;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: nowrap;
     font-size: 40px;
     font-weight: bold;
     padding-left: 60px;
-
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text
 
 }
 
@@ -29,6 +36,6 @@
 
 .banner2{
     padding-top: 10px;
-    padding-left: 10%;
+    padding-left: 11%;
 }
 
