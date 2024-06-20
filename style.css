@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    background-image: image-set(background-image: scr"..\img\ai-generated-1280×719.jpg";);
 
 }
 
@@ -19,13 +18,11 @@ a{
     font-style: italic;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text
-
 }
 
 
 #frota{
-    padding-top: 100px;
-    padding-left: 200px;
+    padding: 200px;
 }
 
 .banner{
@@ -36,6 +33,6 @@ a{
 
 .banner2{
     padding-top: 10px;
-    padding-left: 11%;
+    padding-left: 13%;
 }
 
